@@ -1,7 +1,7 @@
 import io
 import struct
 
-from typing import List, Tuple, Union
+from typing import List, Tuple
 
 
 class BufferedIOWrapper:
