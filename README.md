@@ -1,6 +1,6 @@
 # scel2rime
 
-A library to onvert Sogou scel file to rime dictionary file.
+A library to convert Sogou scel file to rime dictionary file.
 
 ## Usage
 
